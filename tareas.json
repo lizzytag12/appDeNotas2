@@ -1,0 +1,30 @@
+[
+   {
+      "titulo": "Aprender a Manejar",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "Aprender a Pilotear",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Aprender a Nadar",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Aprender a andar en Bicicleta",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Aprender a Cocinar",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "Aprender Programacion",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Mejorar app2",
+      "estado": "terminado"
+   }
+]
